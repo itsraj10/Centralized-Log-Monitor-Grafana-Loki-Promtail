@@ -92,3 +92,12 @@ ________________________________________________________________________________
 
 
 ____________________________________________________________________________________________________________________________
+
+📌 Why I made this:-
+
+I built this project to give my team a single, reliable, and human-friendly view of production logs, enabling faster troubleshooting, better visibility, and safer operations — without disrupting existing systems.
+And my team is currently using this.
+
+❤️ I wanted to share this project with you all, and I hope you were able to learn something useful from it.
+
+____________________________________________________________________________________________________________________________

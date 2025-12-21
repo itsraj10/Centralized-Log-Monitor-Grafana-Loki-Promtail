@@ -5,8 +5,12 @@ This project implements a **production-ready centralized log monitoring system**
 where logs from **multiple Linux & Windows servers** are collected on a central server
 and visualized in a **human-friendly Grafana UI**.
 
-![Uploading Architecture.jpg…]()
+![Architecture](https://github.com/user-attachments/assets/6ac126ec-9d28-4314-8445-45204c509ede)
 
+All logs from multiple **Linux and Windows production servers** are collected on a
+central log server and visualized through a **clean, human-readable Grafana UI**.
+
+The solution is designed for **real production use
 
 The solution is:
 - ✅ Centralized logging for all servers
@@ -23,3 +27,15 @@ In production environments, troubleshooting becomes difficult when:
 - Manual SSH access is required
 - Non-technical teams cannot view logs easily
 
+
+💁 Why This Project
+This project reflects **real-world DevOps and SRE practices**:
+- Simple
+- Stable
+- Production-safe
+- Easy to operate
+
+⏳ Status
+✅ Implemented  
+✅ Tested in production  
+✅ Running 24/7 

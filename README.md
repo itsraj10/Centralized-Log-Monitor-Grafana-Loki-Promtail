@@ -5,12 +5,14 @@ This project implements a **production-ready centralized log monitoring system**
 where logs from **multiple Linux & Windows servers** are collected on a central server
 and visualized in a **human-friendly Grafana UI**.
 
+![Uploading Architecture.jpg…]()
+
 The solution is:
-- ✅ 24/7 running
-- ✅ Zero data loss
-- ✅ Manager-friendly (no manual queries)
+- ✅ Centralized logging for all servers
+- ✅ Works 24/7 on a single log server
 - ✅ Click server IP → logs appear instantly
-- ✅ Live + historical log visibility
+- ✅ No modification or deletion of existing logs
+- ✅ Zero data loss
 
 ---
 
@@ -20,12 +22,3 @@ In production environments, troubleshooting becomes difficult when:
 - Manual SSH access is required
 - Non-technical teams cannot view logs easily
 
-This setup **eliminates all of that**.
-
----
-
-🏗 Architecture
-
-![Architecture](architecture/grafana-loki-promtail-architecture.png)
-
-### Flow:

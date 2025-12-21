@@ -7,6 +7,7 @@ and visualized in a **human-friendly Grafana UI**.
 
 ![Uploading Architecture.jpg…]()
 
+
 The solution is:
 - ✅ Centralized logging for all servers
 - ✅ Works 24/7 on a single log server

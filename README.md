@@ -11,6 +11,9 @@ All logs from multiple **Linux and Windows production servers** are collected on
 central log server and visualized through a **clean, human-readable Grafana UI**.
 
 The solution is designed for **real production use!!!
+
+<img width="1400" height="458" alt="image" src="https://github.com/user-attachments/assets/f4252351-4464-4714-ab54-11c2253b6a9b" />
+
 ____________________________________________________________________________________________________________________________
 
 The solution is:

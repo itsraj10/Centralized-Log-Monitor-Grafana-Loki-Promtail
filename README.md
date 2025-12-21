@@ -1,4 +1,4 @@
-# Centralized Live Log Monitoring with Grafana, Loki & Promtail 🚀
+# 🚀 Centralized Live Log Monitoring with Grafana, Loki & Promtail 
 
 📌 Overview
 This project implements a **production-ready centralized log monitoring system**

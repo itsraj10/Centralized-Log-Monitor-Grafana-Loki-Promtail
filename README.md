@@ -11,6 +11,7 @@ All logs from multiple **Linux and Windows production servers** are collected on
 central log server and visualized through a **clean, human-readable Grafana UI**.
 
 The solution is designed for **real production use!!!
+____________________________________________________________________________________________________________________________
 
 The solution is:
 - ✅ Centralized logging for all servers
@@ -19,7 +20,7 @@ The solution is:
 - ✅ No modification or deletion of existing logs
 - ✅ Zero data loss
 
----
+____________________________________________________________________________________________________________________________
 
 🧠 Real-World Problem Solved
 In production environments, troubleshooting becomes difficult when:
@@ -27,6 +28,7 @@ In production environments, troubleshooting becomes difficult when:
 - Manual SSH access is required
 - Non-technical teams cannot view logs easily
 
+____________________________________________________________________________________________________________________________
 
 💁 Why This Project
 This project reflects **real-world DevOps and SRE practices**:
@@ -34,8 +36,11 @@ This project reflects **real-world DevOps and SRE practices**:
 - Stable
 - Production-safe
 - Easy to operate
+____________________________________________________________________________________________________________________________
 
 ⏳ Status
 ✅ Implemented  
 ✅ Working in production  
 ✅ Running 24/7 
+
+____________________________________________________________________________________________________________________________

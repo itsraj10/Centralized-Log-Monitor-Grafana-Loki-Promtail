@@ -88,6 +88,7 @@ ________________________________________________________________________________
 ✅ Working in production  
 ✅ Running 24/7 
 
-<img width="3360" height="1536" alt="image" src="https://github.com/user-attachments/assets/729ce298-c79a-41e4-ba06-24182883c7db" />
+![Screenshot 2025-12-21 at 7 19 15 PM](https://github.com/user-attachments/assets/002ae2ba-6851-4fcc-b480-5fe12ae60c43)
+
 
 ____________________________________________________________________________________________________________________________

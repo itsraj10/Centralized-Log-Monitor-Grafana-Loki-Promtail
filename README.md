@@ -10,7 +10,7 @@ and visualized in a **human-friendly Grafana UI**.
 All logs from multiple **Linux and Windows production servers** are collected on a
 central log server and visualized through a **clean, human-readable Grafana UI**.
 
-The solution is designed for **real production use
+The solution is designed for **real production use!!!
 
 The solution is:
 - ✅ Centralized logging for all servers
@@ -37,5 +37,5 @@ This project reflects **real-world DevOps and SRE practices**:
 
 ⏳ Status
 ✅ Implemented  
-✅ Tested in production  
+✅ Working in production  
 ✅ Running 24/7 

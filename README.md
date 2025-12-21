@@ -39,6 +39,7 @@ This project reflects **real-world DevOps and SRE practices**:
 ____________________________________________________________________________________________________________________________
 
 ⏳ Status
+
 ✅ Implemented  
 ✅ Working in production  
 ✅ Running 24/7 
